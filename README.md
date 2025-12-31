@@ -35,7 +35,7 @@ Il progetto è ottimizzato per **Google Colab** (GPU T4 o superiore consigliata)
     ```
 3.  Esegui le celle sequenzialmente per avviare la pipeline di Self-Rectification.
 
-## 👥 Autori
+## Autori
 * **Matteo Battilori**
 * **Marco Michellini**
 
